@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj": {}
+    "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj": {
+    "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj",
+        "projectUniqueName": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj",
         "projectName": "BED-Assignment-3",
-        "projectPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj",
-        "packagesPath": "C:\\Users\\serfv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\obj\\",
+        "projectPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj",
+        "packagesPath": "C:\\Users\\Rasmus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment-3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\serfv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Rasmus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,6 +39,40 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

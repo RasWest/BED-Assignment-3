@@ -2,7 +2,7 @@
 
 namespace BED_Assignment_3.Models
 {
-    public class Morgenmadsbuffeten
+    public class Resevation
     {
         public int RestaurantId { get; set; }
         [Required]
