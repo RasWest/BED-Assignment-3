@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BED_Assignment_3.Pages
+namespace BED_Assignment.Pages
 {
     public class IndexModel : PageModel
     {

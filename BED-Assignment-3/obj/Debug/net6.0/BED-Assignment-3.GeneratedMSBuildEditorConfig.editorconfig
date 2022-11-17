@@ -6,43 +6,47 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = BED_Assignment_3
-build_property.RootNamespace = BED_Assignment_3
-build_property.ProjectDir = C:\Users\Rasmus\Documents\GitHub\BED-Assignment-3\BED-Assignment-3\
+build_property.RootNamespace = BED_Assignment
+build_property.RootNamespace = BED_Assignment
+build_property.ProjectDir = C:\Users\Rasmus\Documents\GitHub\BED-Assignment-3\BED-Assignment\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Rasmus\Documents\GitHub\BED-Assignment-3\BED-Assignment-3
+build_property.MSBuildProjectDirectory = C:\Users\Rasmus\Documents\GitHub\BED-Assignment-3\BED-Assignment
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/Error.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/Index.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/Kitchen.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2l0Y2hlbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/Privacy.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/_ViewImports.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/_ViewStart.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment-3/Pages/Shared/_Layout.cshtml]
+[C:/Users/Rasmus/Documents/GitHub/BED-Assignment-3/BED-Assignment/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lyj2cw3p01
