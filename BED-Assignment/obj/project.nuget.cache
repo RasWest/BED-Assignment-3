@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6MCYkq6IMMx8etKTZO+VvLC5n2l7Zvufkps3AACVrTJvpC51wwej9sHfxxKSpvhBG3cs8Mwe3bjZ7dv4xmC6NA==",
+  "dgSpecHash": "laM831OxOOadhE8NF75bbQ/u+FjUVIKwzXghFTvzLeG2d5ms8fZCgbLzGqCp/OOvr01FNa+5n2GNpJLch53KDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\BED-Assignment.csproj",
+  "projectFilePath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\BED-Assignment-3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rasmus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rasmus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.8\\microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",

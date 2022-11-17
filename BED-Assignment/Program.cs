@@ -1,4 +1,4 @@
-using BED_Assignment.Data;
+using BED_Assignment_3.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

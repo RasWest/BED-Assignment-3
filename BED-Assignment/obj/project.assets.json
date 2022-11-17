@@ -2459,9 +2459,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\BED-Assignment.csproj",
-      "projectName": "BED-Assignment",
-      "projectPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\BED-Assignment.csproj",
+      "projectUniqueName": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\BED-Assignment-3.csproj",
+      "projectName": "BED-Assignment-3",
+      "projectPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\BED-Assignment-3.csproj",
       "packagesPath": "C:\\Users\\Rasmus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rasmus\\Documents\\GitHub\\BED-Assignment-3\\BED-Assignment\\obj\\",
       "projectStyle": "PackageReference",
