@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serfv\\OneDrive\\Desktop\\BED-Assignment-3\\BED-Assignment-3.csproj": {}
+    "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serfv\\OneDrive\\Desktop\\BED-Assignment-3\\BED-Assignment-3.csproj": {
+    "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serfv\\OneDrive\\Desktop\\BED-Assignment-3\\BED-Assignment-3.csproj",
+        "projectUniqueName": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj",
         "projectName": "BED-Assignment-3",
-        "projectPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\BED-Assignment-3\\BED-Assignment-3.csproj",
+        "projectPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\BED-Assignment-3.csproj",
         "packagesPath": "C:\\Users\\serfv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\BED-Assignment-3\\obj\\",
+        "outputPath": "C:\\Users\\serfv\\OneDrive\\Desktop\\AU\\4.semester\\BED\\BED-Assignment-3\\BED-Assignment-3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
