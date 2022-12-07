@@ -1,0 +1,37 @@
+﻿@page
+@model BED_Assignment_3.Pages.ReceptionModel
+@{
+}
+<div id="Reception_Page">
+  <div id="Reception_Header">
+    <h1>
+      Welcome to the Reception
+    </h1>
+
+        <button id="btnrecpright"><a class="nav-link text-dark" asp-area="" asp-page="/ListOfGuests">List of guests</a></button>
+
+    </div>
+    <div id="Reception_SubHeader">
+    </div>
+    <form id="Breakfast_order" method="post">
+        <div>
+            <label>Adult</label>
+            <input asp-for="Input.NumbersOfAdults" type="number" />
+        </div>
+        <div>
+            <label>Children</label>
+            <input asp-for="Input.NumbersOfChildren" type="number" />
+        </div>
+        <div>
+            <label>Room Number</label>
+            <input asp-for="Input.RoomNumber" type="number" />
+        </div>
+        <div>
+            <br />
+            <input asp-for="Input.Date" type="date" />
+        </div>
+        <button type="submit" id="requestButton"> Submit </button>
+    </form>
+</div>
+
+

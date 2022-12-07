@@ -1,0 +1,30 @@
+﻿@page
+@model BED_Assignment_3.Pages.KitchenModel
+@{
+}
+
+@using System.Runtime.InteropServices.ComTypes
+
+<div>
+  <h1>Information about guests</h1> <br/>
+    <form method="post">
+    <label> Date </label>
+    <input asp-for="Input.Date" type="date"/>
+    <button type="submit">View</button>
+  </form>
+  <div>
+    <p id="adultReservation"></p>
+  </div>
+</div>
+
+<div>
+  <h3>Total Adults: @ViewData["Adult"]</h3><br/>
+  <h3>Total Children: @ViewData["Children"]</h3><br/>
+  <h3>Total Reservation @ViewData["Total"]</h3><br/>
+  <h3>Checked In Adults: @ViewData["CheckedInAdult"]</h3><br/>
+  <h3>Checked In Children @ViewData["CheckedInChildren"]</h3><br/>
+  <h3>Total NotCheckedIn: @ViewData["NotCheckedIn"]</h3>
+</div>
+
+<script src="microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="js/Kitchen.js"></script>
